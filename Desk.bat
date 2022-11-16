@@ -5,4 +5,4 @@ open allapps.bat
 :2
 open apm.bat
 :3
-open
+open apmd/accept-the-app.bat
