@@ -9,3 +9,7 @@ web browsers must be coded in c or batch to open and run
 on the os, look on the apmd sub directory
 check all files, if you see the word 'appname' show
 the directory of your app =)
+all files use c, python, java or batch make sure
+your hard drive/device can tell what these mean
+and can read these languages, you may need to download
+drivers to EXBOS so it runs =) 
