@@ -13,4 +13,6 @@ all files use c, python, java or batch make sure
 your hard drive/device can tell what these mean
 and can read these languages, you may need to download
 drivers to EXBOS so it runs =) 
+I am not bad at coding, its just i thought it would be 
+fun to make a grade 1 coding operating system =)
 EXBOS is not finished =)
