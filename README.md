@@ -15,4 +15,5 @@ and can read these languages, you may need to download
 drivers to EXBOS so it runs =) 
 I am not bad at coding, its just i thought it would be 
 fun to make a grade 1 coding operating system =)
+set your BIOS/UEFI to open krnl.c so EXBOS will load =)
 EXBOS is not finished =)
