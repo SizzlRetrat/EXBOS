@@ -13,3 +13,4 @@ all files use c, python, java or batch make sure
 your hard drive/device can tell what these mean
 and can read these languages, you may need to download
 drivers to EXBOS so it runs =) 
+EXBOS is not finished =)
